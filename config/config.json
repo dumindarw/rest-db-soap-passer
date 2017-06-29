@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "insuuser",
+    "password": "12345678",
+    "database": "insuassessor",
+    "host": "127.0.0.1",
+    "port": 27017,
+    "dialect": "mongo"
+  },
+  "test": {
+    "username": "insuuser",
+    "password": "12345678",
+    "database": "insuassessor",
+    "host": "127.0.0.1",
+    "port": 27017,
+    "dialect": "mongo"
+  },
+  "production": {
+    "username": "insuuser",
+    "password": "12345678",
+    "database": "insuassessor",
+    "host": "127.0.0.1",
+    "port": 27017,
+    "dialect": "mongo"
+  }
+}

@@ -1,0 +1,4 @@
+{
+	"ASSESOR_VALUE_SERVICE_URL" : "http://172.16.107.31:48080/EdgeLolcService-war/AsserValuesService?wsdl",
+	"IMAGE_SERVICE_URL" : "http://172.16.107.31:48080/EdgeLolcService-war/ImageStoreService?wsdl"
+}
